@@ -1,0 +1,3 @@
+ZAMIEŃ WSZYSTKIE WYSTĄPIENIA Z ZAZNACZENIA
+> Ctrl + F
+> Alt + Enter
